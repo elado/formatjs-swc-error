@@ -1,0 +1,7 @@
+{
+  "name": "formatjs-swc-error",
+  "dependencies": {
+    "@swc/core": "*",
+    "@formatjs/swc-plugin": "*"
+  }
+}
