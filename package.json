@@ -1,5 +1,9 @@
 {
   "name": "formatjs-swc-error",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
   "dependencies": {
     "@swc/core": "*",
     "@formatjs/swc-plugin": "*"
